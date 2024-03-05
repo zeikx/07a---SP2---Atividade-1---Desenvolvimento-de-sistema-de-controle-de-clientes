@@ -1,0 +1,14 @@
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\bin\Debug\net8.0\ATIVIDADE.exe
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\bin\Debug\net8.0\ATIVIDADE.deps.json
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\bin\Debug\net8.0\ATIVIDADE.runtimeconfig.json
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\bin\Debug\net8.0\ATIVIDADE.dll
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\bin\Debug\net8.0\ATIVIDADE.pdb
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.AssemblyInfoInputs.cache
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.AssemblyInfo.cs
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.dll
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\refint\ATIVIDADE.dll
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.pdb
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ATIVIDADE.genruntimeconfig.cache
+C:\Users\valde\OneDrive\Área de Trabalho\_senai\ATIVIDADE\obj\Debug\net8.0\ref\ATIVIDADE.dll
